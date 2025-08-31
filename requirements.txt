@@ -1,0 +1,7 @@
+# Python 3.10 or higher recommended
+# Dataset source: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+pandas
+seaborn
+matplotlib
+scikit-learn
+numpy
