@@ -1,7 +1,14 @@
 # Python 3.11.9 required
-# Dataset source: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+#Dataset source: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store  ~ 5 GB (.zip file)
+# Used the dataset "2019 Oct.csv" from the zip file
+
+# Core Data Science Libraries
 pandas==2.3.2
-seaborn==0.13.2
-matplotlib==3.10.6
-scikit-learn==1.7.1
 numpy==2.3.2
+
+# Visualization Libraries
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# Machine Learning Libraries
+scikit-learn==1.7.1
