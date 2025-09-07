@@ -1,5 +1,0 @@
-,cluster_name,size,percentage,avg_spending,avg_session_duration,conversion_rate,avg_categories
-Cluster 0,Efficient_Buyers,504.0,20.7,9.27,1.96,0.055,1.1
-Cluster 1,Premium_Customers,459.0,18.8,19.88,1.72,0.01,1.1
-Cluster 2,Budget_Browsers,710.0,29.1,2.43,1.8,0.008,1.1
-Cluster 3,Category_Explorers,763.0,31.3,7.48,1.92,0.017,1.3
