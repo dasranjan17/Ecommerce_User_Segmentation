@@ -56,23 +56,17 @@ This project delivers a complete pipeline for e-commerce customer segmentation u
    cd <repository-folder>
 
 2. Set up Python Environment
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 3. Run Notebooks in Order
 - Open and execute notebooks sequentially:
-
     - 01_data_exploration_eda.ipynb
-
     - 02_data_cleaning.ipynb
-
     - 03_preprocessing_feature_engineering.ipynb
-
     - 04_clustering_ml.ipynb
-
     - 05_cluster_analysis_insights.ipynb
 
 4. Explore Outputs
-
 - Cluster labels and cleaned datasets can be used for CRM integration.
-
 - Visualizations in notebooks provide insights into customer segments.
