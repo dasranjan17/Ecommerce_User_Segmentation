@@ -1,4 +1,4 @@
-# E-commerce UserCustomer Segmentation Project
+# E-commerce User Segmentation Project
 
 ## Overview
 This project delivers a complete pipeline for e-commerce customer segmentation using user event data. The workflow covers data exploration, cleaning, feature engineering, clustering, and deriving actionable business insights to inform marketing strategies.
