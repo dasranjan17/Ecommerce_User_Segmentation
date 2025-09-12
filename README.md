@@ -1,4 +1,4 @@
-# E-commerce Customer Segmentation Project
+# E-commerce UserCustomer Segmentation Project
 
 ## Overview
 This project delivers a complete pipeline for e-commerce customer segmentation using user event data. The workflow covers data exploration, cleaning, feature engineering, clustering, and deriving actionable business insights to inform marketing strategies.
@@ -59,20 +59,20 @@ This project delivers a complete pipeline for e-commerce customer segmentation u
 pip install -r requirements.txt
 
 3. Run Notebooks in Order
-Open and execute notebooks sequentially:
+- Open and execute notebooks sequentially:
 
-01_data_exploration_eda.ipynb
+    - 01_data_exploration_eda.ipynb
 
-02_data_cleaning.ipynb
+    - 02_data_cleaning.ipynb
 
-03_preprocessing_feature_engineering.ipynb
+    - 03_preprocessing_feature_engineering.ipynb
 
-04_clustering_ml.ipynb
+    - 04_clustering_ml.ipynb
 
-05_cluster_analysis_insights.ipynb
+    - 05_cluster_analysis_insights.ipynb
 
 4. Explore Outputs
 
-Cluster labels and cleaned datasets can be used for CRM integration.
+- Cluster labels and cleaned datasets can be used for CRM integration.
 
-Visualizations in notebooks provide insights into customer segments.
+- Visualizations in notebooks provide insights into customer segments.
